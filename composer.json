@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/orcid",
+    "name": "nfdi4chem/orcid",
     "description": "ORCID OAuth2 Provider for Laravel Socialite",
     "keywords": [
         "laravel",
